@@ -1,15 +1,1 @@
-[
-  {
-    "appointement": {
-      "appointmentID": "appointmentID",
-      "CenterId": "centerID",
-      "userId": "UserID",
-      "day": "mn 1 - 7 (1-sunday)",
-      "period": "0 morning - 1 evening",
-      "expectedTime": "unixTimeStamp Value"
-    },
-    "center": {
-      "centerName": "centerName"
-    }
-  }
-]
+
